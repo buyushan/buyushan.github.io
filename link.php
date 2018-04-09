@@ -1,1 +1,0 @@
-<p>Link:&nbsp;&nbsp;<?php echo get_op('example_editor'); ?></a></p>
